@@ -27,7 +27,7 @@ p {
     border-bottom: 1.5px solid #ccc;
 }
 
-a[src]{
+img {
     border: 5px dotted #e3e3e3;
 }
 
@@ -55,4 +55,8 @@ select {
     margin: 8px 0;
     box-sizing: border-box;
     font-size: 16px;
+}
+
+a[href$=".html"] {
+    font-style: italic;
 }
