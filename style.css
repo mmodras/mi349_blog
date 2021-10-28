@@ -30,3 +30,15 @@ p {
 img{
     border: 5px dotted #e3e3e3;
 }
+
+button {
+    background-color: #e3e3e3;
+    border: 5px dotted #000;
+}
+
+input{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
