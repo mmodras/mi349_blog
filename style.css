@@ -26,3 +26,7 @@ p {
 .blog-post {
     border-bottom: 1.5px solid #ccc;
 }
+
+img{
+    border: 5px dotted #e3e3e3;
+}
