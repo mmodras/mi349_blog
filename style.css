@@ -59,4 +59,5 @@ select {
 
 a[href$=".html"] {
     font-style: italic;
+    font-size: 14px;
 }
