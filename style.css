@@ -64,7 +64,6 @@ a[href$=".html"] {
 }
 
 .img-container {
-    background-color: blue;
     height: 50px;
     width: 50px;
     float: right;
