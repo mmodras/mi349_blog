@@ -63,8 +63,6 @@ a[href$=".html"] {
 }
 
 .img-container {
-    height: 50px;
-    width: 50px;
     float: right;
     margin-left: 10px;
 }
