@@ -63,7 +63,6 @@ a[href$=".html"] {
 }
 
 .img-container {
-    background-image: url(psg.png);
     height: 50px;
     width: 50px;
     float: right;
