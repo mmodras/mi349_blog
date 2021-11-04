@@ -21,6 +21,7 @@ p {
 
 #blog {
     border-top: 1px dotted #ccc;
+    display: flex;
 }
 
 .blog-post {
@@ -63,6 +64,9 @@ a[href$=".html"] {
 }
 
 .img-container {
+    background-color: blue;
+    height: 10px;
+    width: 10px;
     float: right;
     margin-left: 10px;
 }
