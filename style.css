@@ -35,6 +35,8 @@ p {
     margin-right: 150px;
     text-align: center;
     background-color: #fff8e6;
+    /* Question for Professor so I don't forget: I believe this was demonstrated in class, but how would I get the links in the navigation bar
+    to be in the middle and be able to shift with the size of the window that it is being displayed on? Thanks*/
 }
 
 #blog {
