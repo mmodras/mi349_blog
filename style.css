@@ -70,9 +70,10 @@ a[href$=".html"] {
     width: 50px;
     float: right;
     margin-left: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
     border: 1px black;
+    font-size: 50%;
 }
 
 article {
