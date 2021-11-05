@@ -28,10 +28,10 @@ p {
 }
 
 #nav-bar a{
-    padding: 100px;
-    margin: 20px;
+    padding: 5px;
+    margin: 100px;
     text-align: center;
-    background-color: #ffefc2;
+    background-color: white;
 }
 
 #blog {
