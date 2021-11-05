@@ -19,6 +19,13 @@ p {
     line-height: 1.4em;
 }
 
+#nav-bar{
+    position: sticky;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
 #blog {
     border-top: 1px dotted #ccc;
     display: flex;
