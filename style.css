@@ -24,13 +24,14 @@ p {
     display: flex;
     margin: 10px;
     padding: 10px;
-    border: 1px black;
+    background-color: black;
 }
 
 #nav-bar a{
-    padding: auto;
+    padding: 100px;
     margin: 20px;
     text-align: center;
+    background-color: #ffefc2;
 }
 
 #blog {
