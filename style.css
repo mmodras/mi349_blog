@@ -71,7 +71,8 @@ a[href$=".html"] {
     float: right;
     margin-left: 10px;
     margin-bottom: 10px;
-    font-size: 5;
+    text-align: center;
+    border: 1px black;
 }
 
 article {
