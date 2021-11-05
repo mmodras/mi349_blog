@@ -73,3 +73,8 @@ a[href$=".html"] {
     margin-bottom: 10px;
     font-size: 5;
 }
+
+article {
+    padding: 20px;
+    margin: 20px;
+}
