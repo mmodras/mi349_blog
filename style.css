@@ -27,6 +27,7 @@ p {
     background-color: white;
 }
 
+
 #nav-bar a{
     padding: 5px;
     margin-top: 10px;
@@ -36,6 +37,7 @@ p {
     text-align: center;
     background-color: #fff8e6;
     border: 1px solid black;
+    flex-grow: 3;
     /* Question for Professor so I don't forget: I believe this was demonstrated in class, but how would I get the links in the navigation bar
     to be in the middle and be able to shift with the size of the window that it is being displayed on? Thanks*/
 }
