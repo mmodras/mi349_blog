@@ -103,7 +103,7 @@ article {
     margin: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     body {
         background-color: red;
     }
