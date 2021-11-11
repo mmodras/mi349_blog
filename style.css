@@ -111,11 +111,12 @@ article {
     #blog {
         display:inline-block;
         background-color: #ccc;
-        font-size: 50%;
+        font-size: 75%;
+        flex-grow: 3;
     }
 
     #nav-bar {
         display: inline-block;
-        margin: 25px;
+        padding: 25px;
     }
 }
