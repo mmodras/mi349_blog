@@ -109,7 +109,11 @@ article {
     }
 
     #blog{
-        flex-grow: 3;
+        flex-shrink: 3;
         background-color: #ccc;
+    }
+
+    #nav-bar {
+        size-adjust: 50%;
     }
 }
