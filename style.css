@@ -108,13 +108,13 @@ article {
         background-color: #ccc;
     }
 
-    #blog{
-        flex-shrink: 3;
+    #blog {
+        display:inline-block;
         background-color: #ccc;
     }
 
     #nav-bar {
         background-color: blue;
-        flex-shrink: 4;
+        display: inline-block;
     }
 }
