@@ -114,6 +114,7 @@ article {
     }
 
     #nav-bar {
-        size-adjust: 50%;
+        background-color: blue;
+        flex-shrink: 4;
     }
 }
