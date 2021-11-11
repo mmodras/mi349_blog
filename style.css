@@ -117,8 +117,12 @@ article {
         
     }
 
+    #blog img {
+        width: 50%;
+    }
+
     #nav-bar a {
         display: inline-block;
-        padding: 5px;
+        flex-grow: 1;
     }
 }
