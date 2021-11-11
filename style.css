@@ -105,6 +105,11 @@ article {
 
 @media (max-width: 400px) {
     body {
-        background-color: red;
+        background-color: #ccc;
+    }
+
+    #blog{
+        flex-grow: 3;
+        background-color: #ccc;
     }
 }
