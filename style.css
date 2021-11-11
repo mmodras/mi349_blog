@@ -118,11 +118,11 @@ article {
     }
 
     #blog img {
-        width: 50%;
+        width: 75%;
+        height: 75%;
     }
 
     #nav-bar a {
-        display: inline-block;
         flex-grow: 1;
     }
 }
