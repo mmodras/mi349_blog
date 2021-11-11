@@ -102,3 +102,9 @@ article {
     padding: 20px;
     margin: 20px;
 }
+
+@media (max-width: 600px) {
+    body {
+        background-color: red;
+    }
+}
