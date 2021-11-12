@@ -122,6 +122,10 @@ article {
         height: 75%;
     }
 
+    #nav bar {
+        background-color: black;
+    }
+
     #nav-bar a {
         margin: 1%;
     }
